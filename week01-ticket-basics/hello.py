@@ -1,5 +1,5 @@
 import sys
-from Pathlib import Path
+from pathlib import Path
 
 print(sys.executable)
 print(Path.cwd())
